@@ -1,0 +1,2 @@
+human(seba).
+human(javi).
