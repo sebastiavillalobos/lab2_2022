@@ -1,0 +1,15 @@
+Requisitos Funcionales
+
+1 TDAs = 0%
+2 cardsSetIsDobble = 0%
+3 cardsSetNthCard = 0%
+4 cardsSetFindTotalCards = 0%
+5 cardsSetMissingCards = 0%
+6 cardsSetToString = 0%
+7 dobbleGame = 0%
+8 dobbleGameRegister = 0%
+9 dobbleGameWhoseTurnIsIt = 0%
+10 dobbleGamePlay = 0%
+11 dobbleGameStatus = 0%
+12 dobbleGameScore = 0%
+13 dobbleGameToString = 0%

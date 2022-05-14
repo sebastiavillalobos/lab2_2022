@@ -1,0 +1,1 @@
+mortal(X):-human(X).

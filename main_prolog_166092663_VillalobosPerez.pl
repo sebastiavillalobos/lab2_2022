@@ -1,5 +1,6 @@
 :- [ rules,
-     inference,
+     facts,
      goals,
+     demo,
      cardSet
    ].
